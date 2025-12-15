@@ -90,6 +90,5 @@ AZURE_CV_ENDPOINT=your-azure-computer-vision-endpoint
   python manage.py runserver        # start local server
   ```
 ___
-If you have any questions/suggestions/remarks, don't hesitate to contact me [here](https://www.linkedin.com/in/elena-kolomeets-72063517a/) or via kolomeets.elena7@gmail.com.
 
 Thanks for checking out Image Repo!:tada:
